@@ -2,7 +2,9 @@
     "name": "test_007",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "pxt-oled-ssd1306": "github:MKleinSB/pxt-OLED-SSD1306#v0.0.5",
+        "pxt-oledpaint": "github:MKleinSB/pxt-OLEDpaint#v1.2.1"
     },
     "files": [
         "main.blocks",
